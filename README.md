@@ -6,6 +6,13 @@ I'll do my best to explain things in plain English, since anyone who's looked at
 
 I'll also include some full code examples that will hopefully be helpful, and will be as framework-agnostic as possible (although, some of the examples will intentionally be specific to frameworks like Vue or React).
 
-## Topics
+If you're completely new to web accessibility, feel free to follow the [suggested reading order](#suggested-reading-order-for-newcomers). Otherwise, you can peruse the [list of topics](#list-of-topics).
+
+## Suggested Reading Order for Newcomers
+
+1. [Web accessibility foundations](/foundations.md)
+
+## List of Topics
 
 - [Common accessibility anti-patterns](/anti-patterns.md)
+- [Web accessibility foundations](/foundations.md)
