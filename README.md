@@ -12,9 +12,11 @@ If you're completely new to web accessibility, feel free to follow the [suggeste
 
 1. [Web accessibility foundations](/foundations.md)
 2. [Semantics](/semantics.md)
+3. [Headings and landmarks](/headings-and-landmarks.md)
 
 ## List of Topics
 
 - [Common accessibility anti-patterns](/anti-patterns.md)
+- [Headings and landmarks](/headings-and-landmarks.md)
 - [Semantics](/semantics.md)
 - [Web accessibility foundations](/foundations.md)
