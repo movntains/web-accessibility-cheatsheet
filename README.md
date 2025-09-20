@@ -8,15 +8,21 @@ I'll also include some full code examples that will hopefully be helpful, and wi
 
 If you're completely new to web accessibility, feel free to follow the [suggested reading order](#suggested-reading-order-for-newcomers). Otherwise, you can peruse the [list of topics](#list-of-topics).
 
-## Suggested Reading Order for Newcomers
+## Suggested Reading Order for Accessibility Newcomers
 
 1. [Web accessibility foundations](/foundations.md)
 2. [Semantics](/semantics.md)
 3. [Headings and landmarks](/headings-and-landmarks.md)
+4. [Inclusive design](/inclusive-design.md)
+5. [Animation and motion](/animation-and-motion.md)
 
 ## List of Topics
 
-- [Common accessibility anti-patterns](/anti-patterns.md)
-- [Headings and landmarks](/headings-and-landmarks.md)
-- [Semantics](/semantics.md)
-- [Web accessibility foundations](/foundations.md)
+| Topic  | What's Covered |
+| ------------- | ------------- |
+| [Animation and motion](/animation-and-motion.md) | <ul><li>WCAG success criteria for motion</li><li>Implementing `prefers-reduced-motion`</li></ul> |
+| [Common accessibility anti-patterns](/anti-patterns.md) |  |
+| [Headings and landmarks](/headings-and-landmarks.md) | <ul><li>Outlining the page</li><li>Heading levels</li><li>Aiding navigation with landmarks</li><li>Page regions</li></ul> |
+| [Inclusive design](/inclusive-design.md) | <ul><li>Key aspects</li><li>Touch targets</li><li>Color and contrast</li><li>Responsive design</li><li>Content reordering</li><li>Styling focus states</li></ul> |
+| [Semantics](/semantics.md) | <ul><li>Affordances and semantics</li><li>Semantic HTML</li><li>Semantic properties</li><li>The accessibility tree</li></ul> |
+| [Web accessibility foundations](/foundations.md) | <ul><li>Digital accessibility</li><li>Why web accessibility is important</li><li>Language and definitions of accessibility</li></ul> |
