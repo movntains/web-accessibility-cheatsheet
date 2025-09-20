@@ -11,8 +11,10 @@ If you're completely new to web accessibility, feel free to follow the [suggeste
 ## Suggested Reading Order for Newcomers
 
 1. [Web accessibility foundations](/foundations.md)
+2. [Semantics](/semantics.md)
 
 ## List of Topics
 
 - [Common accessibility anti-patterns](/anti-patterns.md)
+- [Semantics](/semantics.md)
 - [Web accessibility foundations](/foundations.md)
